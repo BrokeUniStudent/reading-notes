@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.book {
+  size: 100px;
+  border: 2px;
+}
+
+.cover {
+  height: 70px;
+  width: 50px
+}
